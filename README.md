@@ -1,4 +1,4 @@
-# 🛡️ Defense System (Observer Design Pattern in Java)
+# 🛡️ Defense System
 
 This project is created using **Java**, a widely recognized and reliable programming language known for its flexibility and portability.
 
